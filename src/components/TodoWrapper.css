@@ -1,0 +1,36 @@
+body {
+  background-image: url('src/assets/images/pexels-codioful-(formerly-gradienta)-6985003.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed; 
+}
+
+
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    max-width: 500px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+  
+.card h2 {
+    margin-bottom: 1rem;
+    color: #3cebf1;;
+  }
+  
+
+
+
+/* .card-background {
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
+
